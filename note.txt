@@ -1,0 +1,10 @@
+(MongoExpress) -> [
+    Web-based MongoDB admin interface, written with Node.js and express
+    mongo-express is a web-based MongoDB admin interface written in Node.js, Express.js, and Bootstrap3.
+]
+
+
+
+
+# Docker build command: (docker build -t <image_name>:<tag>)
+# Docker list  container in format:(docker ps --format "ID: {{.ID}}\nNAME: {{.Names}}\nIMAGE: {{.Image}}\nSTATUS: {{.Status}}\nPORT: {{.Ports}}\n\n")
